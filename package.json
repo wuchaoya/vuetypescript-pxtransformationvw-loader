@@ -1,0 +1,14 @@
+{
+  "name": "vuetypescript-pxtransformationvw-loader",
+  "version": "1.0.0",
+  "description": "vue typeScript 项目中行内px转换为vw单位的一个webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
