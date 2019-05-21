@@ -4,7 +4,7 @@
 ### install
 
 ```
-yarn add style-vw-loader
+yarn add vuetypescript-pxtransformationvw-loader
 ```
 
 ### Use
@@ -20,21 +20,6 @@ vue-cli3
       .use('vuetypescript-pxtransformationvw-loader')
         .loader('vuetypescript-pxtransformationvw-loader')
     }
-}
-```
-
-
-
-### option
-默认配置
-```javascript
-defaultsProp = {
-  unitToConvert: 'px',
-  viewportWidth: 350,
-  unitPrecision: 5,
-  viewportUnit: 'vw',
-  fontViewportUnit: 'vw',
-  minPixelValue: 1
 }
 ```
 

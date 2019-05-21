@@ -1,6 +1,6 @@
 {
   "name": "vuetypescript-pxtransformationvw-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue typeScript 项目中行内px转换为vw单位的一个webpack loader",
   "main": "index.js",
   "scripts": {
